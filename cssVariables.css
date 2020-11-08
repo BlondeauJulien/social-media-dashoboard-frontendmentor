@@ -1,0 +1,9 @@
+:root {
+  --background: hsl(0, 0%, 100%);
+  --background-header: hsl(225, 100%, 98%);
+  --background-card: hsl(227, 47%, 96%);
+  --background-card-hover: hsl(224, 27%, 92%);
+  --secondary-color-text: hsl(228, 12%, 44%);
+  --main-color-text: hsl(230, 17%, 14%);
+  --secondary-color-title: hsl(228, 12%, 44%);
+}
